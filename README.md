@@ -1,1 +1,4 @@
-https://realyashsehgal.github.io/portfolio-website/
+Here is the direct link to my portfolio
+
+
+https://realyashsehgal.vercel.app/
